@@ -27,7 +27,7 @@ export default function App({ Component, pageProps }) {
 	const description =
 		"Hello! I'm Jeeshan, a passionate web developer and problem solver. Welcome to my portfolio";
 	const avatar =
-		"http://jeeshanportfolio.info/assets/profile.jpg";
+		"https://avatars.githubusercontent.com/u/183486026?u=8f2af8a872515849a4b5e4f707c47cc9e25b0c30&v=4";
 	const url = "#";
 
 	return (

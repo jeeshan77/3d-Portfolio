@@ -151,7 +151,7 @@ function About() {
           ))}
         </div>
         <Link
-          href="document/Keshav Bajwa - CV.pdf"
+          href="document/Jeeshan Resume-1.pdf"
           target="_blank"
           rel="noreferrer"
           className="w-fit"
